@@ -1,0 +1,1207 @@
+/* COLOR SCHEME */
+:root {
+    --gw-analytics-agreement-text-color: #FFFFFF;
+    --gw-analytics-agreement-background-color: #4B62FF;
+    --gw-analytics-agreement-button-color: #4F5AA8;
+    --gw-analytics-agreement-link-color: #FFFFFF;
+    --gw-analytics-agreement-button-background-color: #FFFFFF;
+    --gw-analytics-agreement-button-hover-color: #216CFF;
+    --gw-analytics-agreement-button-active-color: #053B75;
+}
+
+html.tpl-alt-accessibility-color-scheme-1 [class^='tpl-body-site-'] {
+    --tpl-color-foreground-main: #000000;
+    --tpl-color-foreground-main-darkest: rgb(0,0,0);
+    --tpl-color-foreground-main-darker: rgb(0,0,0);
+    --tpl-color-foreground-main-dark: rgb(0,0,0);
+    --tpl-color-foreground-main-light: rgb(25,25,25);
+    --tpl-color-foreground-main-lighter: rgb(51,51,51);
+    --tpl-color-foreground-main-lightest: rgb(76,76,76);
+    --tpl-color-foreground-accent: #555555;
+    --tpl-color-foreground-accent-darkest: rgb(7,7,7);
+    --tpl-color-foreground-accent-darker: rgb(33,33,33);
+    --tpl-color-foreground-accent-dark: rgb(58,58,58);
+    --tpl-color-foreground-accent-light: rgb(109,109,109);
+    --tpl-color-foreground-accent-lighter: rgb(135,135,135);
+    --tpl-color-foreground-accent-lightest: rgb(160,160,160);
+    --tpl-color-brand: #195183;
+    --tpl-color-brand-darkest: rgb(0,2,4);
+    --tpl-color-brand-darker: rgb(8,29,47);
+    --tpl-color-brand-dark: rgb(17,55,89);
+    --tpl-color-brand-light: rgb(33,108,175);
+    --tpl-color-brand-lighter: rgb(45,134,215);
+    --tpl-color-brand-lightest: rgb(87,159,223);
+    --tpl-color-background-accent: #EEEEEE;
+    --tpl-color-background-accent-darkest: rgb(160,160,160);
+    --tpl-color-background-accent-darker: rgb(186,186,186);
+    --tpl-color-background-accent-dark: rgb(211,211,211);
+    --tpl-color-background-accent-light: rgb(255,255,255);
+    --tpl-color-background-accent-lighter: rgb(255,255,255);
+    --tpl-color-background-accent-lightest: rgb(255,255,255);
+    --tpl-color-background-main: #FFFFFF;
+    --tpl-color-background-main-darkest: rgb(178,178,178);
+    --tpl-color-background-main-darker: rgb(204,204,204);
+    --tpl-color-background-main-dark: rgb(229,229,229);
+    --tpl-color-background-main-light: rgb(255,255,255);
+    --tpl-color-background-main-lighter: rgb(255,255,255);
+    --tpl-color-background-main-lightest: rgb(255,255,255);
+    color: var(--tpl-color-foreground-main);
+    background-color: var(--tpl-color-background-main);
+}
+html.tpl-alt-accessibility-color-scheme-2 [class^='tpl-body-site-'] {
+    --tpl-color-foreground-main: #FFFFFF;
+    --tpl-color-foreground-main-darkest: rgb(178,178,178);
+    --tpl-color-foreground-main-darker: rgb(204,204,204);
+    --tpl-color-foreground-main-dark: rgb(229,229,229);
+    --tpl-color-foreground-main-light: rgb(255,255,255);
+    --tpl-color-foreground-main-lighter: rgb(255,255,255);
+    --tpl-color-foreground-main-lightest: rgb(255,255,255);
+    --tpl-color-foreground-accent: #EEEEEE;
+    --tpl-color-foreground-accent-darkest: rgb(160,160,160);
+    --tpl-color-foreground-accent-darker: rgb(186,186,186);
+    --tpl-color-foreground-accent-dark: rgb(211,211,211);
+    --tpl-color-foreground-accent-light: rgb(255,255,255);
+    --tpl-color-foreground-accent-lighter: rgb(255,255,255);
+    --tpl-color-foreground-accent-lightest: rgb(255,255,255);
+    --tpl-color-brand: #D8EDFF;
+    --tpl-color-brand-darkest: rgb(61,165,255);
+    --tpl-color-brand-darker: rgb(112,189,255);
+    --tpl-color-brand-dark: rgb(163,212,255);
+    --tpl-color-brand-light: rgb(255,255,255);
+    --tpl-color-brand-lighter: rgb(255,255,255);
+    --tpl-color-brand-lightest: rgb(255,255,255);
+    --tpl-color-background-accent: #555555;
+    --tpl-color-background-accent-darkest: rgb(7,7,7);
+    --tpl-color-background-accent-darker: rgb(33,33,33);
+    --tpl-color-background-accent-dark: rgb(58,58,58);
+    --tpl-color-background-accent-light: rgb(109,109,109);
+    --tpl-color-background-accent-lighter: rgb(135,135,135);
+    --tpl-color-background-accent-lightest: rgb(160,160,160);
+    --tpl-color-background-main: #000000;
+    --tpl-color-background-main-darkest: rgb(0,0,0);
+    --tpl-color-background-main-darker: rgb(0,0,0);
+    --tpl-color-background-main-dark: rgb(0,0,0);
+    --tpl-color-background-main-light: rgb(25,25,25);
+    --tpl-color-background-main-lighter: rgb(51,51,51);
+    --tpl-color-background-main-lightest: rgb(76,76,76);
+
+    --gw-analytics-agreement-text-color: #000000;
+    --gw-analytics-agreement-background-color: #FFFFFF;
+    --gw-analytics-agreement-button-color: #FFFFFF;
+    --gw-analytics-agreement-link-color: #000000;
+    --gw-analytics-agreement-button-background-color: #000000;
+    --gw-analytics-agreement-button-hover-color: #FFFFFF;
+    --gw-analytics-agreement-button-active-color: #FFFFFF;
+
+    color: var(--tpl-color-foreground-main);
+    background-color: var(--tpl-color-background-main);
+}
+html.tpl-alt-accessibility-color-scheme-3 [class^='tpl-body-site-'] {
+    --tpl-color-foreground-main: #063462;
+    --tpl-color-foreground-main-darkest: rgb(0,0,0);
+    --tpl-color-foreground-main-darker: rgb(0,0,0);
+    --tpl-color-foreground-main-dark: rgb(3,25,47);
+    --tpl-color-foreground-main-light: rgb(9,76,143);
+    --tpl-color-foreground-main-lighter: rgb(12,102,191);
+    --tpl-color-foreground-main-lightest: rgb(15,127,239);
+    --tpl-color-foreground-accent: #000000;
+    --tpl-color-foreground-accent-darkest: rgb(0,0,0);
+    --tpl-color-foreground-accent-darker: rgb(0,0,0);
+    --tpl-color-foreground-accent-dark: rgb(0,0,0);
+    --tpl-color-foreground-accent-light: rgb(25,25,25);
+    --tpl-color-foreground-accent-lighter: rgb(51,51,51);
+    --tpl-color-foreground-accent-lightest: rgb(76,76,76);
+    --tpl-color-brand: #063462;
+    --tpl-color-brand-darkest: rgb(0,0,0);
+    --tpl-color-brand-darker: rgb(0,0,0);
+    --tpl-color-brand-dark: rgb(3,25,47);
+    --tpl-color-brand-light: rgb(9,76,143);
+    --tpl-color-brand-lighter: rgb(12,102,191);
+    --tpl-color-brand-lightest: rgb(15,127,239);
+    --tpl-color-background-accent: #AADEE6;
+    --tpl-color-background-accent-darkest: rgb(55,171,189);
+    --tpl-color-background-accent-darker: rgb(88,191,206);
+    --tpl-color-background-accent-dark: rgb(128,206,218);
+    --tpl-color-background-accent-light: rgb(207,236,241);
+    --tpl-color-background-accent-lighter: rgb(247,251,252);
+    --tpl-color-background-accent-lightest: rgb(255,255,255);
+    --tpl-color-background-main: #9DD1FF;
+    --tpl-color-background-main-darkest: rgb(5,137,255);
+    --tpl-color-background-main-darker: rgb(56,161,255);
+    --tpl-color-background-main-dark: rgb(107,185,255);
+    --tpl-color-background-main-light: rgb(209,233,255);
+    --tpl-color-background-main-lighter: rgb(255,255,255);
+    --tpl-color-background-main-lightest: rgb(255,255,255);
+    color: var(--tpl-color-foreground-main);
+    background-color: var(--tpl-color-background-main);
+}
+
+/* FONT SIZE */
+html[class^="tpl-alt-accessibility-font-size-"],
+html[class^="tpl-alt-accessibility-letter-spacing-"],
+html[class^="tpl-alt-accessibility-line-spacing-"]{
+    font-size: 100%;
+}
+
+/* Большой */
+
+/* Основной текст */
+/*
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'],
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default p {
+    font-size: 1.5rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-smallest,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-smallest-paragraph {
+    font-size: calc(1.5rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-smaller,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-smaller-paragraph {
+    font-size: calc(1.5rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-small,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-small-paragraph {
+    font-size: calc(1.5rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-big,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-big-paragraph {
+    font-size: calc(1.5rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-bigger,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-bigger-paragraph {
+    font-size: calc(1.5rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-biggest,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-biggest-paragraph {
+    font-size: calc(1.5rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-smallest p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-smallest-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-smaller p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-smaller-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-small p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-small-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-big p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-big-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-bigger p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-bigger-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-biggest p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-default-biggest-paragraph {
+    margin-bottom: 1em;
+}
+*/
+/* Дополнительный шрифт */
+/*
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-paragraph p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-paragraph {
+    font-size: 1.375rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-smallest,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-smallest-paragraph {
+    font-size: calc(1.375rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-smaller,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-smaller-paragraph {
+    font-size: calc(1.375rem * 0.8);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-small,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-small-paragraph {
+    font-size: calc(1.375rem * 0.9);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-big,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-big-paragraph {
+    font-size: calc(1.375rem * 1.2);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-bigger,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-bigger-paragraph {
+    font-size: calc(1.375rem * 1.4);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-biggest,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-biggest-paragraph {
+    font-size: calc(1.375rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-smallest p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-smallest-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-smaller p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-smaller-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-small p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-small-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-big p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-big-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-bigger p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-bigger-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-biggest p,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-alt-biggest-paragraph,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] p {
+    margin-bottom: 1em;
+}
+*/
+/* H1 */
+/*
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h1 {
+    font-size: 2.5rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-smallest {
+    font-size: calc(2.5rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-smaller {
+    font-size: calc(2.5rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-small {
+    font-size: calc(2.5rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-big {
+    font-size: calc(2.5rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-bigger {
+    font-size: calc(2.5rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-biggest {
+    font-size: calc(2.5rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h1,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-smallest,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-smaller,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-small,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-big,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-bigger,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header1-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* H2 */
+/*
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h2 {
+    font-size: 2.25rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-smallest {
+    font-size: calc(2.25rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-smaller {
+    font-size: calc(2.25rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-small {
+    font-size: calc(2.25rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-big {
+    font-size: calc(2.25rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-bigger {
+    font-size: calc(2.25rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-biggest {
+    font-size: calc(2.25rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h2,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-smallest,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-smaller,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-small,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-big,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-bigger,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header2-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* H3 */
+/*
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h3 {
+    font-size: 2.125rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-smallest {
+    font-size: calc(2.125rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-smaller {
+    font-size: calc(2.125rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-small {
+    font-size: calc(2.125rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-big {
+    font-size: calc(2.125rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-bigger {
+    font-size: calc(2.125rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-biggest {
+    font-size: calc(2.125rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h3,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-smallest,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-smaller,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-small,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-big,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-bigger,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header3-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* H4 */
+/*
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h4 {
+    font-size: 1.875rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-smallest {
+    font-size: calc(1.875rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-smaller {
+    font-size: calc(1.875rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-small {
+    font-size: calc(1.875rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-big {
+    font-size: calc(1.875rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-bigger {
+    font-size: calc(1.875rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-biggest {
+    font-size: calc(1.875rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h4,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-smallest,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-smaller,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-small,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-big,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-bigger,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header4-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* H5 */
+/*
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h5 {
+    font-size: 1.75rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-smallest {
+    font-size: calc(1.75rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-smaller {
+    font-size: calc(1.75rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-small {
+    font-size: calc(1.75rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-big {
+    font-size: calc(1.75rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-bigger {
+    font-size: calc(1.75rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-biggest {
+    font-size: calc(1.75rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h5,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-smallest,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-smaller,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-small,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-big,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-bigger,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header5-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* H6 */
+/*
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h6 {
+    font-size: 1.5rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-smallest {
+    font-size: calc(1.5rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-smaller {
+    font-size: calc(1.5rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-small {
+    font-size: calc(1.5rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-big {
+    font-size: calc(1.5rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-bigger {
+    font-size: calc(1.5rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-biggest {
+    font-size: calc(1.5rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] h6,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-smallest,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-smaller,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-small,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-big,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-bigger,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-text-header6-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* Поля форм */
+/*
+html.tpl-alt-accessibility-font-size-2 input[type='color'],
+html.tpl-alt-accessibility-font-size-2 input[type='date'],
+html.tpl-alt-accessibility-font-size-2 input[type='datetime-local'],
+html.tpl-alt-accessibility-font-size-2 input[type='email'],
+html.tpl-alt-accessibility-font-size-2 input[type='month'],
+html.tpl-alt-accessibility-font-size-2 input[type='number'],
+html.tpl-alt-accessibility-font-size-2 input[type='password'],
+html.tpl-alt-accessibility-font-size-2 input[type='search'],
+html.tpl-alt-accessibility-font-size-2 input[type='tel'],
+html.tpl-alt-accessibility-font-size-2 input[type='text'],
+html.tpl-alt-accessibility-font-size-2 input[type='time'],
+html.tpl-alt-accessibility-font-size-2 input[type='url'],
+html.tpl-alt-accessibility-font-size-2 input[type='week'],
+html.tpl-alt-accessibility-font-size-2 input[type='file'],
+html.tpl-alt-accessibility-font-size-2 select:not([dummy-selector]),
+html.tpl-alt-accessibility-font-size-2 textarea:not([dummy-selector]),
+html.tpl-alt-accessibility-font-size-2 input[type='color']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='date']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='datetime-local']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='email']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='month']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='number']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='password']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='search']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='tel']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='text']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='time']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='url']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='week']:hover,
+html.tpl-alt-accessibility-font-size-2 input[type='file']:hover,
+html.tpl-alt-accessibility-font-size-2 select:not([dummy-selector]):hover,
+html.tpl-alt-accessibility-font-size-2 textarea:not([dummy-selector]):hover,
+html.tpl-alt-accessibility-font-size-2 input[type='color']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='date']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='datetime-local']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='email']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='month']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='number']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='password']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='search']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='tel']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='text']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='time']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='url']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='week']:focus,
+html.tpl-alt-accessibility-font-size-2 input[type='file']:focus,
+html.tpl-alt-accessibility-font-size-2 select:not([dummy-selector]):focus,
+html.tpl-alt-accessibility-font-size-2 textarea:not([dummy-selector]):focus {
+    font-size: 1.5rem;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 2.5em;
+    padding: 1.5em 1em;
+}
+*/
+/* Дополнительные селекторы */
+/*
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] legend {
+    font-size: 2.25rem;
+}
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .pagination .pagination-item {
+    font-size: 1.8rem;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-button {
+    font-size: 1.5rem;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-button-small {
+    font-size: 1.275rem;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-button-big {
+    font-size: 1.875rem;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] a,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] button,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] label,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] span {
+    font-size: 1.5rem;
+}
+*/
+/* Огромный */
+
+/* Основной текст */
+/*
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'],
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default p {
+    font-size: 2rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-smallest,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-smallest-paragraph {
+    font-size: calc(2rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-smaller,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-smaller-paragraph {
+    font-size: calc(2rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-small,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-small-paragraph {
+    font-size: calc(2rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-big,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-big-paragraph {
+    font-size: calc(2rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-bigger,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-bigger-paragraph {
+    font-size: calc(2rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-biggest,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-biggest-paragraph {
+    font-size: calc(2rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-smallest p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-smallest-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-smaller p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-smaller-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-small p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-small-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-big p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-big-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-bigger p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-bigger-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-biggest p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-default-biggest-paragraph {
+    margin-bottom: 1em;
+}
+*/
+/* Дополнительный шрифт */
+/*
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-paragraph p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-paragraph {
+    font-size: 1.75rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-smallest,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-smallest-paragraph {
+    font-size: calc(1.75rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-smaller,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-smaller-paragraph {
+    font-size: calc(1.75rem * 0.8);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-small,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-small-paragraph {
+    font-size: calc(1.75rem * 0.9);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-big,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-big-paragraph {
+    font-size: calc(1.75rem * 1.2);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-bigger,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-bigger-paragraph {
+    font-size: calc(1.75rem * 1.4);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-biggest,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-biggest-paragraph {
+    font-size: calc(1.75rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-smallest p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-smallest-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-smaller p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-smaller-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-small p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-small-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-big p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-big-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-bigger p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-bigger-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-biggest p,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-alt-biggest-paragraph,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] p {
+    margin-bottom: 1em;
+}
+*/
+/* H1 */
+/*
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h1 {
+    font-size: 2.75rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-smallest {
+    font-size: calc(2.75rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-smaller {
+    font-size: calc(2.75rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-small {
+    font-size: calc(2.75rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-big {
+    font-size: calc(2.75rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-bigger {
+    font-size: calc(2.75rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-biggest {
+    font-size: calc(2.75rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h1,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-smallest,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-smaller,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-small,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-big,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-bigger,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header1-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* H2 */
+/*
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h2 {
+    font-size: 2.5rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-smallest {
+    font-size: calc(2.5rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-smaller {
+    font-size: calc(2.5rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-small {
+    font-size: calc(2.5rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-big {
+    font-size: calc(2.5rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-bigger {
+    font-size: calc(2.5rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-biggest {
+    font-size: calc(2.5rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h2,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-smallest,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-smaller,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-small,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-big,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-bigger,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header2-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* H3 */
+/*
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h3 {
+    font-size: 2.25rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-smallest {
+    font-size: calc(2.25rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-smaller {
+    font-size: calc(2.25rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-small {
+    font-size: calc(2.25rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-big {
+    font-size: calc(2.25rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-bigger {
+    font-size: calc(2.25rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-biggest {
+    font-size: calc(2.25rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h3,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-smallest,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-smaller,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-small,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-big,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-bigger,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header3-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* H4 */
+/*
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h4 {
+    font-size: 2.125rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-smallest {
+    font-size: calc(2.125rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-smaller {
+    font-size: calc(2.125rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-small {
+    font-size: calc(2.125rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-big {
+    font-size: calc(2.125rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-bigger {
+    font-size: calc(2.125rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-biggest {
+    font-size: calc(2.125rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h4,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-smallest,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-smaller,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-small,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-big,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-bigger,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header4-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* H5 */
+/*
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h5 {
+    font-size: 2.1rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-smallest {
+    font-size: calc(2.1rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-smaller {
+    font-size: calc(2.1rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-small {
+    font-size: calc(2.1rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-big {
+    font-size: calc(2.1rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-bigger {
+    font-size: calc(2.1rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-biggest {
+    font-size: calc(2.1rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h5,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-smallest,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-smaller,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-small,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-big,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-bigger,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header5-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* H6 */
+/*
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h6 {
+    font-size: 2rem;
+    line-height: 1em;
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-smallest {
+    font-size: calc(2rem * 0.7);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-smaller {
+    font-size: calc(2rem * 0.8);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-small {
+    font-size: calc(2rem * 0.9);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-big {
+    font-size: calc(2rem * 1.2);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-bigger {
+    font-size: calc(2rem * 1.4);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-biggest {
+    font-size: calc(2rem * 1.6);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] h6,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-smallest,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-smaller,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-small,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-big,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-bigger,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-text-header6-biggest {
+    margin-bottom: 1em;
+}
+*/
+/* Поля форм */
+/*
+html.tpl-alt-accessibility-font-size-3 input[type='color'],
+html.tpl-alt-accessibility-font-size-3 input[type='date'],
+html.tpl-alt-accessibility-font-size-3 input[type='datetime-local'],
+html.tpl-alt-accessibility-font-size-3 input[type='email'],
+html.tpl-alt-accessibility-font-size-3 input[type='month'],
+html.tpl-alt-accessibility-font-size-3 input[type='number'],
+html.tpl-alt-accessibility-font-size-3 input[type='password'],
+html.tpl-alt-accessibility-font-size-3 input[type='search'],
+html.tpl-alt-accessibility-font-size-3 input[type='tel'],
+html.tpl-alt-accessibility-font-size-3 input[type='text'],
+html.tpl-alt-accessibility-font-size-3 input[type='time'],
+html.tpl-alt-accessibility-font-size-3 input[type='url'],
+html.tpl-alt-accessibility-font-size-3 input[type='week'],
+html.tpl-alt-accessibility-font-size-3 input[type='file'],
+html.tpl-alt-accessibility-font-size-3 select:not([dummy-selector]),
+html.tpl-alt-accessibility-font-size-3 textarea:not([dummy-selector]),
+html.tpl-alt-accessibility-font-size-3 input[type='color']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='date']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='datetime-local']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='email']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='month']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='number']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='password']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='search']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='tel']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='text']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='time']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='url']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='week']:hover,
+html.tpl-alt-accessibility-font-size-3 input[type='file']:hover,
+html.tpl-alt-accessibility-font-size-3 select:not([dummy-selector]):hover,
+html.tpl-alt-accessibility-font-size-3 textarea:not([dummy-selector]):hover,
+html.tpl-alt-accessibility-font-size-3 input[type='color']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='date']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='datetime-local']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='email']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='month']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='number']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='password']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='search']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='tel']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='text']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='time']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='url']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='week']:focus,
+html.tpl-alt-accessibility-font-size-3 input[type='file']:focus,
+html.tpl-alt-accessibility-font-size-3 select:not([dummy-selector]):focus,
+html.tpl-alt-accessibility-font-size-3 textarea:not([dummy-selector]):focus {
+    font-size: 2rem;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 2.5em;
+    padding: 1.5em 1em;
+}
+*/
+/* Дополнительные селекторы */
+/*
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] legend {
+    font-size: calc(2rem * 1.5);
+}
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .pagination .pagination-item {
+    font-size: calc(2rem * 1.2);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-button {
+    font-size: 2rem;
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-button-small {
+    font-size: calc(2rem * 0.85);
+}
+
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-button-big {
+    font-size: calc(2rem * 1.25);
+}
+*/
+
+
+/* LETTER SPACING */
+
+/* Большой */
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default,
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'],
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-paragraph {
+    letter-spacing:0.1em;
+}
+
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-smallest,
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-smallest-paragraph {
+    letter-spacing:0.07em;
+}
+
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-smaller,
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-smaller-paragraph {
+    letter-spacing:0.08em;
+}
+
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-small,
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-small-paragraph {
+    letter-spacing:0.09em;
+}
+
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-big,
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-big-paragraph {
+    letter-spacing:0.12em;
+}
+
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-bigger,
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-bigger-paragraph {
+    letter-spacing:0.14em;
+}
+
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-biggest,
+html.tpl-alt-accessibility-letter-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-biggest-paragraph {
+    letter-spacing:0.16em;
+}
+
+/* Огромный */
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default,
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'],
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-paragraph {
+  letter-spacing:0.2em;
+}
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-smallest,
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-smallest-paragraph {
+    letter-spacing:0.14em;
+}
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-smaller,
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-smaller-paragraph {
+    letter-spacing:0.16em;
+}
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-small,
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-small-paragraph {
+    letter-spacing:0.18em;
+}
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-big,
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-big-paragraph {
+    letter-spacing:0.24em;
+}
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-bigger,
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-bigger-paragraph {
+    letter-spacing:0.28em;
+}
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-biggest,
+html.tpl-alt-accessibility-letter-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-biggest-paragraph {
+    letter-spacing:0.32em;
+}
+
+/* LINE SPACING */
+
+/* Средний */
+
+/* Основной текст */
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'],
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] p,
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-default-paragraph,
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-default,
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-default p {
+    line-height: 1.75em;
+}
+
+/* Дополнительный шрифт */
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-alt,
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-alt-paragraph p,
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-alt-paragraph {
+    line-height: 1.75em;
+}
+
+/* H1 */
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-header1,
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] h1 {
+    line-height: 1.75em;
+}
+
+/* H2 */
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-header2,
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] h2 {
+    line-height: 1.75em;
+}
+
+/* H3 */
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-header3,
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] h3 {
+    line-height: 1.75em;
+}
+
+/* H4 */
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-header4,
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] h4 {
+    line-height: 1.75em;
+}
+
+/* H5 */
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-header5,
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] h5 {
+    line-height: 1.75em;
+}
+
+/* H6 */
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] .tpl-text-header6,
+html.tpl-alt-accessibility-line-spacing-2 [class^='tpl-body-site-'] h6 {
+    line-height: 1.75em;
+}
+
+/* Большой */
+
+/* Основной текст */
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'],
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] p,
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-default-paragraph,
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-default,
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-default p {
+    line-height: 2em;
+}
+
+/* Дополнительный шрифт */
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-alt,
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-alt-paragraph p,
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-alt-paragraph {
+    line-height: 2em;
+}
+
+/* H1 */
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-header1,
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] h1 {
+    line-height: 2em;
+}
+
+/* H2 */
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-header2,
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] h2 {
+    line-height: 2em;
+}
+
+/* H3 */
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-header3,
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] h3 {
+    line-height: 2em;
+}
+
+/* H4 */
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-header4,
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] h4 {
+    line-height: 2em;
+}
+
+/* H5 */
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-header5,
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] h5 {
+    line-height: 2em;
+}
+
+/* H6 */
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] .tpl-text-header6,
+html.tpl-alt-accessibility-line-spacing-3 [class^='tpl-body-site-'] h6 {
+    line-height: 2em;
+}
+
+/* Спецификация */
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .nc-navbar a,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .nc-navbar a,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .nc-navbar span,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .nc-navbar span {
+    font-size: 1.125rem;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual a,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual a,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual a,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual span,
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual span,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual span {
+    font-size: 1.25rem;
+}
+
+html.tpl-alt-accessibility-font-size-1 .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-1"],
+html.tpl-alt-accessibility-font-size-1 .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-1"] span,
+html.tpl-alt-accessibility-font-size-2 .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-1"],
+html.tpl-alt-accessibility-font-size-2 .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-1"] span,
+html.tpl-alt-accessibility-font-size-3 .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-1"],
+html.tpl-alt-accessibility-font-size-3 .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-1"] span {
+    font-size: 1rem;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-2"],
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-2"] span,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-2"],
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-2"] span{
+    font-size: 1.5rem;
+}
+
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-3"],
+html.tpl-alt-accessibility-font-size-2 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-3"] span,
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-3"],
+html.tpl-alt-accessibility-font-size-3 [class^='tpl-body-site-'] .tpl-component-gw-accessibility-visual .variant[data-variant="accessibility-font-size-3"] span {
+    font-size: 2rem;
+}
